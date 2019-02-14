@@ -7,4 +7,4 @@ from core import db_handler
 
 
 def auth(account_name, *args, **kwargs):
-
+    pass
