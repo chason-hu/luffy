@@ -1,0 +1,30 @@
+{
+  "auth": {
+    "hcc": "888",
+    "alex": "888"
+  },
+  "goods": [
+    {
+      "name": "电脑",
+      "price": 1999
+    },
+    {
+      "name": "鼠标",
+      "price": 10
+    },
+    {
+      "name": "游艇",
+      "price": 20
+    },
+    {
+      "name": "美女",
+      "price": 998
+    }
+  ],
+  "cart": {
+  },
+  "order": {
+  },
+  "balance": {
+  }
+}

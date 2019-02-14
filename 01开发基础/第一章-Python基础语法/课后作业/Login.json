@@ -1,0 +1,12 @@
+{
+  "hcc": {
+    "pwd": "888",
+    "balance": 0,
+    "is_lock": "Y"
+  },
+  "alex": {
+    "pwd": "888",
+    "balance": 100000,
+    "is_lock": "N"
+  }
+}

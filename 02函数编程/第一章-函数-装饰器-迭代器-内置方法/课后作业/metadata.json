@@ -1,0 +1,22 @@
+{
+  "staff_table": {
+    "dbfile": "staff_table.db",
+    "cols": [
+      "staff_id",
+      "name",
+      "age",
+      "phone",
+      "dept",
+      "enroll_date",
+      "test_id"
+    ],
+    "seq": [
+      "staff_id",
+      "test_id"
+    ],
+    "uniq": [
+      "name",
+      "phone"
+    ]
+  }
+}
